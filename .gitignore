@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.pyc
+*.pkl
+
+# Environments
+.venv/
+env/
+.env
+
+# Node
+node_modules/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# VS Code
+.vscode/
