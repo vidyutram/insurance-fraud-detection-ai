@@ -16,10 +16,10 @@ An AI-powered fraud detection system combining:
 ## 📸 Screenshots
 
 ### Fraud Case
-![Fraud Detection](screenshots/fraud.png)
+![Fraud Detection](image/fraud.png)
 
 ### Not Fraud Case
-![Not Fraud Detection](screenshots/not_fraud.png)
+![Not Fraud Detection](image/not_fraud.png)
 
 ## 🧠 Tech Stack
 - Python
