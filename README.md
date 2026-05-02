@@ -1,19 +1,19 @@
-# 🛡️ Insurance Fraud Detection System
+# Insurance Fraud Detection System
 
-An AI-powered fraud detection system combining:
+An AI powered fraud detection system combining:
 - Machine Learning (XGBoost)
 - LLM-based feature extraction (OpenRouter)
 - Streamlit UI
 - FastAPI backend (optional)
 
-## 🚀 Features
+## Features
 - Natural language claim input
 - Automated feature extraction using LLM
 - Fraud probability prediction
 - Threshold-based decision logic
 - Clean UI with real-time results
 
-## 📸 Screenshots
+## Screenshots
 
 ### Fraud Case
 ![Fraud Detection](image/fraud.png)
@@ -21,15 +21,13 @@ An AI-powered fraud detection system combining:
 ### Not Fraud Case
 ![Not Fraud Detection](image/not_fraud.png)
 
-## 🧠 Tech Stack
+## Tech Stack
 - Python
 - XGBoost
 - Pandas / Scikit-learn
 - OpenRouter API
 - Streamlit
 - FastAPI
-
-## ▶️ How to Run
 
 ### Train model
 ```bash
