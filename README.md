@@ -23,14 +23,6 @@ Describe a car insurance claim in plain english and get a fraud probability.
 ![Not Fraud Detection](image/not_fraud.png)
 
 
-## Repo layout
- 
-```
-backend/        .env.example, requirements.txt, main.py (optional FastAPI)
-image/          screenshots
-ml-streamlit/   train_fraud_model.py, fraud_detection.py, app.py
-```
- 
 ## Setup
  
 ```bash
