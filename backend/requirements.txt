@@ -1,0 +1,11 @@
+pandas
+scikit-learn
+xgboost
+joblib
+openai
+python-dotenv
+streamlit
+fastapi
+uvicorn
+langchain-openai
+langchain-core
